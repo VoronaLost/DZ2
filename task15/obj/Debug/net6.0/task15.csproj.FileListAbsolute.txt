@@ -1,0 +1,15 @@
+D:\study\SHARP\DZ\DZ2\task15\bin\Debug\net6.0\task15.exe
+D:\study\SHARP\DZ\DZ2\task15\bin\Debug\net6.0\task15.deps.json
+D:\study\SHARP\DZ\DZ2\task15\bin\Debug\net6.0\task15.runtimeconfig.json
+D:\study\SHARP\DZ\DZ2\task15\bin\Debug\net6.0\task15.dll
+D:\study\SHARP\DZ\DZ2\task15\bin\Debug\net6.0\task15.pdb
+D:\study\SHARP\DZ\DZ2\task15\obj\Debug\net6.0\task15.csproj.AssemblyReference.cache
+D:\study\SHARP\DZ\DZ2\task15\obj\Debug\net6.0\task15.GeneratedMSBuildEditorConfig.editorconfig
+D:\study\SHARP\DZ\DZ2\task15\obj\Debug\net6.0\task15.AssemblyInfoInputs.cache
+D:\study\SHARP\DZ\DZ2\task15\obj\Debug\net6.0\task15.AssemblyInfo.cs
+D:\study\SHARP\DZ\DZ2\task15\obj\Debug\net6.0\task15.csproj.CoreCompileInputs.cache
+D:\study\SHARP\DZ\DZ2\task15\obj\Debug\net6.0\task15.dll
+D:\study\SHARP\DZ\DZ2\task15\obj\Debug\net6.0\refint\task15.dll
+D:\study\SHARP\DZ\DZ2\task15\obj\Debug\net6.0\task15.pdb
+D:\study\SHARP\DZ\DZ2\task15\obj\Debug\net6.0\task15.genruntimeconfig.cache
+D:\study\SHARP\DZ\DZ2\task15\obj\Debug\net6.0\ref\task15.dll
