@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\study\\SHARP\\DZ\\DZ2\\task10\\task10.csproj": {}
+    "E:\\study\\SHARP\\DZ2\\task10\\task10.csproj": {}
   },
   "projects": {
-    "D:\\study\\SHARP\\DZ\\DZ2\\task10\\task10.csproj": {
+    "E:\\study\\SHARP\\DZ2\\task10\\task10.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\study\\SHARP\\DZ\\DZ2\\task10\\task10.csproj",
+        "projectUniqueName": "E:\\study\\SHARP\\DZ2\\task10\\task10.csproj",
         "projectName": "task10",
-        "projectPath": "D:\\study\\SHARP\\DZ\\DZ2\\task10\\task10.csproj",
-        "packagesPath": "C:\\Users\\alex\\.nuget\\packages\\",
-        "outputPath": "D:\\study\\SHARP\\DZ\\DZ2\\task10\\obj\\",
+        "projectPath": "E:\\study\\SHARP\\DZ2\\task10\\task10.csproj",
+        "packagesPath": "C:\\Users\\Vorona\\.nuget\\packages\\",
+        "outputPath": "E:\\study\\SHARP\\DZ2\\task10\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alex\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Vorona\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
